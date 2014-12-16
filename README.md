@@ -1,2 +1,2 @@
-Ruby-Tests
+Ruby-Test Exercises with Rspec
 ==========
